@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Mostly a designer, with some rudimentary code touching skills.
+I also make [comics](https://www.katedee.com/), and love to help folks [learn how to host their own](https://webcomics.fyi/).
+
 <!--
 **katedee/katedee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
